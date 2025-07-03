@@ -1,7 +1,7 @@
 ![gboeer's github stats](https://github-readme-stats.vercel.app/api?username=gboeer&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gboeer&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![](assets/mastodon_badge.jpg)](https://det.social/@Gboeer)
 <!--
 **gboeer/gboeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
