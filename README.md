@@ -1,4 +1,4 @@
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)]
 
-[![](assets/mastodon.svg)](https://det.social/@Gboeer)
+<a href="https://det.social/@Gboeer"><img src="assets/mastodon.svg" width="48"></a>
